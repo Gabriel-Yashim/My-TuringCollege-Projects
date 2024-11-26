@@ -1,4 +1,7 @@
-# About This Project
+# Title: Presentations & Soft Skills
+
+
+## About This Project
 
 In this project, I focused on creating tailored presentations and dashboards for two distinct audiences: executives and department leads. Here’s how I approached the task:
 
